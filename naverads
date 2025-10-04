@@ -1,0 +1,21 @@
+! Title: Chzzk AdBlock Filter for AdGuard Home
+! Description: 네이버 치지직(Chzzk) 광고 및 추적 차단용 필터
+! Version: 2025.10.04
+! Last modified: 2025-10-04
+! Expires: 1 day
+! Homepage: https://chzzk.naver.com/
+
+||ad.naver.com^
+||adcr.naver.com^
+||adcreative.naver.com^
+||ads-naver.com^
+||adimg.naver.com^
+||nelo2-col.navercorp.com^
+||track-ad.naver.com^
+||track.tiara.naver.com^
+||metrics.naver.com^
+||ssl.pstatic.net/ad*
+||play-ad.naver.com^
+||video-ad.naver.com^
+||static.chzzk.naver.com^
+||chzzk.naver.com^$third-party
