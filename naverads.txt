@@ -19,3 +19,7 @@
 ||video-ad.naver.com^
 ||static.chzzk.naver.com^
 ||chzzk.naver.com^$third-party
+||adcr.naver.com^
+||play-ad.naver.com^
+||video-ad.naver.com^
+||static.chzzk.naver.com^
